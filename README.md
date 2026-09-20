@@ -6,11 +6,12 @@ A collection of Python programs I'm building while learning Python for my AI min
 
 I'm a 3rd-year Computer Science student at King Saud University. This repository tracks my Python learning journey.
 
-## Current Progress
+## freeCodeCamp Practice
 
-### freeCodeCamp - Scientific Computing with Python
-- ✅ String operations (concatenation, f-strings, slicing)
-- 🔄 More projects in progress...
+| File | Topic |
+|------|-------|
+| `string_operations.py` | String concatenation, f-strings, slicing |
+| `bill_splitter.py` | Variables, arithmetic, rounding, f-strings |
 
 ## Skills Being Built
 - Python syntax
