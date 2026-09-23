@@ -12,12 +12,17 @@ I'm a 3rd-year Computer Science student at King Saud University. This repository
 |------|-------|
 | `string_operations.py` | String concatenation, f-strings, slicing |
 | `bill_splitter.py` | Variables, arithmetic, rounding, f-strings |
+| `discount_calculator.py` | Functions, conditionals, input validation |
 
 ## Skills Being Built
 - Python syntax
-- String manipulation
 - Variables and data types
-- f-strings and formatting
+- String manipulation (concatenation, slicing, f-strings)
+- Arithmetic operations
+- Functions (`def`, parameters, return values)
+- Conditionals (`if`, `elif`, `else`)
+- Input validation (`isinstance`, edge cases)
+- Rounding and number formatting (`round()`)
 
 
 ## About Me
