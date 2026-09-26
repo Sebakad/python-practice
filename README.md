@@ -13,6 +13,7 @@ I'm a 3rd-year Computer Science student at King Saud University. This repository
 | `string_operations.py` | String concatenation, f-strings, slicing |
 | `bill_splitter.py` | Variables, arithmetic, rounding, f-strings |
 | `discount_calculator.py` | Functions, conditionals, input validation |
+| `caesar_cipher.py` | Functions, string translation, encryption algorithm |
 
 ## Skills Being Built
 - Python syntax
@@ -23,7 +24,9 @@ I'm a 3rd-year Computer Science student at King Saud University. This repository
 - Conditionals (`if`, `elif`, `else`)
 - Input validation (`isinstance`, edge cases)
 - Rounding and number formatting (`round()`)
-
+- String methods (`maketrans()`, `translate()`)
+- Default function parameters
+- Algorithm implementation (Caesar cipher)
 
 ## About Me
 - 🎓 3rd Year CS Student @ KSU
