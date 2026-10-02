@@ -14,6 +14,7 @@ I'm a 3rd-year Computer Science student at King Saud University. This repository
 | `bill_splitter.py` | Variables, arithmetic, rounding, f-strings |
 | `discount_calculator.py` | Functions, conditionals, input validation |
 | `caesar_cipher.py` | Functions, string translation, encryption algorithm |
+| `character_sheet.py` | Complex validation, string formatting, visual output |
 
 ## Skills Being Built
 - Python syntax
@@ -27,7 +28,11 @@ I'm a 3rd-year Computer Science student at King Saud University. This repository
 - String methods (`maketrans()`, `translate()`)
 - Default function parameters
 - Algorithm implementation (Caesar cipher)
-
+- Complex input validation (multiple conditions)
+- String repetition (`*`)
+- Multi-line output with `\n`
+- Building formatted displays
+  
 ## About Me
 - 🎓 3rd Year CS Student @ KSU
 - 📚 Learning: Python, Data Structures, AI
